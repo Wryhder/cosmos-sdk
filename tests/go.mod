@@ -3,7 +3,7 @@ module github.com/cosmos/cosmos-sdk/tests
 go 1.20
 
 require (
-	cosmossdk.io/api v0.3.2-0.20230313131911-55bf5d4efbe7
+	cosmossdk.io/api v0.4.0
 	cosmossdk.io/depinject v1.0.0-alpha.3
 	cosmossdk.io/errors v1.0.0-beta.7
 	cosmossdk.io/log v0.1.0
@@ -20,7 +20,7 @@ require (
 	github.com/cosmos/cosmos-proto v1.0.0-beta.3
 	// this version is not used as it is always replaced by the latest Cosmos SDK version
 	github.com/cosmos/cosmos-sdk v0.48.0
-	github.com/cosmos/gogoproto v1.4.6
+	github.com/cosmos/gogoproto v1.4.7
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.3.0
 	github.com/spf13/cobra v1.6.1
