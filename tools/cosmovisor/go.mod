@@ -5,7 +5,7 @@ go 1.20
 require (
 	cosmossdk.io/log v0.1.0
 	cosmossdk.io/x/upgrade v0.0.0-20230227110325-294ef34f396f
-	github.com/otiai10/copy v1.9.0
+	github.com/otiai10/copy v1.14.0
 	github.com/rs/zerolog v1.29.0
 	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.2
@@ -142,6 +142,7 @@ require (
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/oauth2 v0.6.0 // indirect
+	golang.org/x/sync v0.3.0 // indirect
 	golang.org/x/sys v0.6.0 // indirect
 	golang.org/x/term v0.6.0 // indirect
 	golang.org/x/text v0.8.0 // indirect
