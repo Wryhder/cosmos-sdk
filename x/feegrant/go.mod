@@ -15,13 +15,13 @@ require (
 	github.com/cosmos/cosmos-sdk v0.46.0-beta2.0.20230328185921-37ba88872dbc
 	github.com/cosmos/gogoproto v1.4.6
 	github.com/golang/mock v1.6.0
-	github.com/golang/protobuf v1.5.3
+	github.com/golang/protobuf v1.5.4
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.2
 	google.golang.org/genproto v0.0.0-20230320184635-7606e756e683
 	google.golang.org/grpc v1.54.0
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.33.0
 	gotest.tools/v3 v3.4.0
 )
 
